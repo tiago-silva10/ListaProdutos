@@ -1,0 +1,111 @@
+﻿@model PagedList.IPagedList<Avaliacao.Models.Product>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="~/Content/bootstrap.css">
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Content/Site.css">
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="container-fluid">
+        <h3>Product list</h3>
+            <table class="table table-bordered" id="minhaTabela">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th>Categories</th>
+                        <th>Tags</th>
+                        <th>IsDisabled</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var product in Model)
+                    {
+                        <tr>
+                            <td>@product.Id</td>
+                            <td>@product.Name</td>
+                            <td>@product.Price</td>
+                            <td>
+                                @foreach(var categorie in product.Categories.ToList())
+                                {
+                                    <p>@categorie.Name</p>
+                                }
+                            </td>                                
+                            <td>
+                                @foreach(var tag in product.Tags.ToList())
+                                {
+                                    <p>@tag</p>
+                                }
+                            </td>
+                            <td>@product.IsDisabled</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+    </div>
+    <div>
+        Página @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)
+        of @Model.PageCount
+
+        @if (Model.HasPreviousPage)
+        {
+            @Html.ActionLink("<<", "Index", new { pagina = 1, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter })
+            @Html.Raw(" ");
+            @Html.ActionLink("< Anterior", "Index", new { pagina = Model.PageNumber - 1, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter })
+        }
+        else
+        {
+            @:<<
+            @Html.Raw(" ");
+            @:< Anterior
+        }
+
+        @if (Model.HasNextPage)
+        {
+            @Html.ActionLink("Próxima >", "Index", new { pagina = Model.PageNumber + 1, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter })
+            @Html.Raw(" ");
+            @Html.ActionLink(">>", "Index", new { pagina = Model.PageCount, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter })
+        }
+        else
+        {
+            @:Próxima >
+            @Html.Raw(" ")
+            @:>>
+        }
+    </div>
+</body>
+<div class="rodape">
+    &copy; by Tiago do Nascimento Silva - 2016.
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#ddlNumeroLinhas").change(function () {
+            var teste = $("#ddlNumeroLinhas").val();
+
+            $.ajax({
+                type: 'GET',
+                contentType: "application/json; charset=utf-8",
+                url: '/Product',
+                data: { pagina: teste },
+                dataType: "json",
+                async: true,
+                success: function (data) {
+                }
+            });
+        });
+    });
+</script>
+<script src="~/Scripts/jquery-1.9.1.js" type="text/javascript"></script>
+
+</html>

@@ -1,0 +1,95 @@
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\Avaliacao.dll.config
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\Avaliacao.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\Avaliacao.pdb
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\EntityFramework.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\EntityFramework.SqlServer.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\System.Web.Helpers.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\System.Web.Mvc.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\System.Web.Razor.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\System.Web.Webpages.Deployment.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\System.Web.Webpages.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\System.Web.Webpages.Razor.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\EntityFramework.xml
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\EntityFramework.SqlServer.xml
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\System.Web.Razor.xml
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\System.Web.Webpages.xml
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\System.Web.Webpages.Deployment.xml
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\System.Web.Webpages.Razor.xml
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\System.Web.Helpers.xml
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\System.Web.Mvc.xml
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\pt-br\System.Web.Razor.resources.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\pt-br\System.Web.Webpages.resources.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\obj\Debug\Avaliacao.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\obj\Debug\Avaliacao.pdb
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\obj\Debug\Avaliacao.csprojResolveAssemblyReference.cache
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\PagedList.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\PagedList.Mvc.dll
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\PagedList.xml
+D:\Programação\Crud Tiago\Avaliacao1\Avaliacao\Avaliacao\bin\PagedList.Mvc.xml
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\Avaliacao.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\Avaliacao.pdb
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\EntityFramework.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\EntityFramework.SqlServer.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\PagedList.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\PagedList.Mvc.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\System.Web.Helpers.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\System.Web.Mvc.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\System.Web.Razor.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\System.Web.Webpages.Deployment.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\System.Web.Webpages.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\System.Web.Webpages.Razor.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\EntityFramework.xml
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\EntityFramework.SqlServer.xml
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\PagedList.xml
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\PagedList.Mvc.xml
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\System.Web.Razor.xml
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\System.Web.Webpages.xml
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\System.Web.Webpages.Deployment.xml
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\System.Web.Webpages.Razor.xml
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\System.Web.Helpers.xml
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\System.Web.Mvc.xml
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\pt-br\System.Web.Razor.resources.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\pt-br\System.Web.Webpages.resources.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\obj\Debug\Avaliacao.csprojResolveAssemblyReference.cache
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\obj\Debug\Avaliacao.dll
+D:\Users\ter32802\Documents\Visual Studio 2012\Projects\Avaliacao\Avaliacao\obj\Debug\Avaliacao.pdb
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\Avaliacao.dll.config
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\Avaliacao.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\Avaliacao.pdb
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\EntityFramework.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\EntityFramework.SqlServer.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\PagedList.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\PagedList.Mvc.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\System.Web.Helpers.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\System.Web.Mvc.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\System.Web.Razor.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\System.Web.Webpages.Deployment.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\System.Web.Webpages.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\System.Web.Webpages.Razor.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\EntityFramework.xml
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\EntityFramework.SqlServer.xml
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\PagedList.xml
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\PagedList.Mvc.xml
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\System.Web.Razor.xml
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\System.Web.Webpages.xml
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\System.Web.Webpages.Deployment.xml
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\System.Web.Webpages.Razor.xml
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\System.Web.Helpers.xml
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\System.Web.Mvc.xml
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\pt-br\System.Web.Razor.resources.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\pt-br\System.Web.Webpages.resources.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\obj\Debug\Avaliacao.csprojResolveAssemblyReference.cache
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\obj\Debug\Avaliacao.dll
+D:\Programação\Crud Tiago\Avaliacao\Avaliacao\obj\Debug\Avaliacao.pdb
